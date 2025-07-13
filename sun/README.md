@@ -8,7 +8,10 @@
    Sun - a kernel passion project made with love and effort
        created by a team of 3 on github
 ==================================================
-			64-bit main 
+
+64-bit main 
+not done yet lmao
+   
 
 ## 📜Questions💬
 
