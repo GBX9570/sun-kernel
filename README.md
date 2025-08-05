@@ -1,5 +1,14 @@
-# Sun Kernel
-The Sun Kernel Source Tree
+
+ _____               _   __                     _ 
+/  ___|             | | / /                    | |
+\ `--. _   _ _ __   | |/ /  ___ _ __ _ __   ___| |
+ `--. \ | | | '_ \  |    \ / _ \ '__| '_ \ / _ \ |
+/\__/ / |_| | | | | | |\  \  __/ |  | | | |  __/ |
+\____/ \__,_|_| |_| \_| \_/\___|_|  |_| |_|\___|_|                                      
+==================================================
+			64-bit main 
+
+
 
 # Licensing
 The Sun Kernel is licensed under the GPL 3.0 license, which in short means:
