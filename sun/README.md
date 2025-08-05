@@ -5,8 +5,6 @@
  `--. \ | | | '_ \  |    \ / _ \ '__| '_ \ / _ \ |
 /\__/ / |_| | | | | | |\  \  __/ |  | | | |  __/ |
 \____/ \__,_|_| |_| \_| \_/\___|_|  |_| |_|\___|_|                                      
-   Sun - a kernel passion project made with love and effort
-       created by a team of 3 on github
 ==================================================
 			64-bit main 
 
@@ -18,6 +16,9 @@
 
 
 ## 🔔Plans🔎
+Allocator, complite EGA/VGA support.
+Before porting to UEFI, I will plan on supporting most BIOS features.
+Better docs someday...
 
 
 ## 👨‍💻Design👩‍💻
